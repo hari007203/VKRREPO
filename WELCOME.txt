@@ -1,7 +1,4 @@
-‎TEST1.py
-+54
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,54 @@
+
 import unittest
 def multiply(a, b):
    return a * b
